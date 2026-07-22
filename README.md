@@ -1,2 +1,3 @@
-# Enterprise-Grade Multimodal AI Document Intelligence Platform Using Agentic AI
-An enterprise-grade Agentic AI platform for intelligent document understanding and automated knowledge workflows. The system processes PDFs, scanned documents, images, tables, charts, and forms using multimodal AI, OCR, Vision Language Models (VLMs), and Large Language Models (LLMs). It employs autonomous AI agents for document ingestion, reasoning, retrieval, validation, and context-aware question answering, delivering accurate, source-grounded insights with scalable enterprise-grade performance.
+# Enterprise-Grade Multimodal AI Document Intelligence Platform using Agentic AI
+An enterprise-grade AI platform that transforms unstructured enterprise documents into actionable knowledge using Agentic AI and intelligent workflow orchestration.
+The platform leverages multiple autonomous AI agents to parse, understand, summarize, compare, validate, translate, and generate reports from business documents. Built with FastAPI, LangGraph, Ollama, PostgreSQL, React, Docker, and modern MLOps practices, it provides a scalable and production-ready solution for enterprise document intelligence.
