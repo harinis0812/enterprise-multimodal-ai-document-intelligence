@@ -1,2 +1,2 @@
-# Enterprise-Multimodal-Deep-Document-Understanding
-Enterprise-grade Multimodal RAG platform for intelligent document understanding. Processes PDFs, scanned documents, images, tables, charts, and forms using VLMs, OCR, vector search, and LLMs to deliver accurate, context-aware, source-grounded question answering with scalable enterprise retrieval.
+# Enterprise-Grade Multimodal AI Document Intelligence Platform Using Agentic AI
+An enterprise-grade Agentic AI platform for intelligent document understanding and automated knowledge workflows. The system processes PDFs, scanned documents, images, tables, charts, and forms using multimodal AI, OCR, Vision Language Models (VLMs), and Large Language Models (LLMs). It employs autonomous AI agents for document ingestion, reasoning, retrieval, validation, and context-aware question answering, delivering accurate, source-grounded insights with scalable enterprise-grade performance.
